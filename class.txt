@@ -1,1 +1,3 @@
 This is the GIT test file
+
+This is the new feature added.
